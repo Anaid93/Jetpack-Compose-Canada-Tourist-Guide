@@ -11,7 +11,7 @@ Tourist Guide Canada is an Android app in kotlin where you can find different in
 
 ## How does it work?
 
-1. On the main screen you will find 3 boxes with the names:
+1. On the first screen you will find 3 boxes with the names:
     - Attractions
     - Accommodation
     - Restaurants
@@ -19,6 +19,21 @@ Tourist Guide Canada is an Android app in kotlin where you can find different in
     To see the information you want, you just have to click on it.
     
 2. When you are on the second screen to see more information you just have to click and the text will expand.
+
+## Where can you find the files?
+
+* The main activity - [MainActivity.kt](https://github.com/Anaid93/TouristGuideCanada/blob/master/app/src/main/java/com/example/touristguidecanada/MainActivity.kt)
+* The first screen - [FirstScreen.kt](https://github.com/Anaid93/TouristGuideCanada/blob/master/app/src/main/java/com/example/touristguidecanada/screens/FirstScreen.kt)
+* The second screen contains information about the attractions - [SecondScreen.kt](https://github.com/Anaid93/TouristGuideCanada/blob/master/app/src/main/java/com/example/touristguidecanada/screens/SecondScreen.kt)
+* The third screen contains information about the accommodations - [ThirdScreen.kt](https://github.com/Anaid93/TouristGuideCanada/blob/master/app/src/main/java/com/example/touristguidecanada/screens/ThirdScreen.kt)
+* The fourth screen contains information about the restaurants - [FourthScreen.kt](https://github.com/Anaid93/TouristGuideCanada/blob/master/app/src/main/java/com/example/touristguidecanada/screens/FourthScreen.kt)
+* Navigation between screens - [navigation](https://github.com/Anaid93/TouristGuideCanada/tree/master/app/src/main/java/com/example/touristguidecanada/navigation)
+
+
+
+
+
+
  
 
 
