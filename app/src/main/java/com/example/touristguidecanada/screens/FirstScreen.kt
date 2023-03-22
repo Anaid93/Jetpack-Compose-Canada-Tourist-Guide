@@ -56,9 +56,7 @@ fun MyTitle(){
             fontFamily = FontFamily.SansSerif,
             fontSize = 80.sp)
         Spacer(modifier = Modifier.height(18.dp))
-        Subtitle("Known worldwide")
-        Subtitle("for its crystal clear lakes")
-        Subtitle("and towering mountains.")
+        Subtitle("Known worldwide \n for its crystal clear lakes \n and towering mountains.")        
     }
 }
 
