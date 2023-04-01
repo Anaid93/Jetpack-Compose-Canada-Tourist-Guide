@@ -9,16 +9,6 @@ Canada Tourist Guide is an Android app in kotlin where you can find different in
 * implementation "androidx.navigation:navigation-compose:2.5.3"
 * implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
 
-## How does it work?
-
-1. On the first screen you will find 3 boxes with the names:
-    - Attractions
-    - Accommodation
-    - Restaurants
-    
-    To see the information you want, you just have to click on it.
-    
-2. When you are on the second screen to see more information you just have to click and the text will expand.
 
 ## Where can you find the files?
 
